@@ -1,0 +1,25 @@
+{
+  "name": "@tough-griff/playground",
+  "private": true,
+  "version": "1.0.0",
+  "description": "GitHub Codespace playground",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tough-griff/node-playground.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tough-griff/node-playground/issues"
+  },
+  "homepage": "https://github.com/tough-griff/node-playground#readme",
+  "workspaces": [
+    "workspaces/*"
+  ],
+  "scripts": {
+    "prepare": "scripts/prepare.sh"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^8.0.1"
+  }
+}
