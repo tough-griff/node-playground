@@ -1,0 +1,7 @@
+{
+  "name": "@tough-griff/node-playground-foo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

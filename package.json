@@ -18,8 +18,7 @@
   "scripts": {
     "prepare": "scripts/prepare.sh"
   },
-  "dependencies": {},
   "devDependencies": {
-    "husky": "^8.0.1"
+    "husky": "^8.0.2"
   }
 }
